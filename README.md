@@ -1,6 +1,6 @@
 # Repl20Code
 
-VB6 working copy of `Repl20Code` from Dave Robinson's OneDrive Historical Dev `VB` folder. Project title: Replicator123. Output: `Repl123.exe`. Replicates file(s) to a number of hosts. `VersionCompanyName`: Julietta Alaverdian.
+Julietta Alaverdian's VB6 Replicator123 (`Repl123.exe`) that replicates file(s) to a number of hosts, with ping and file-state helpers (`vbping`, `FileState`). Open `Replicator123.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
