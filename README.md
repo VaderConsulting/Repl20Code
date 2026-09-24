@@ -24,7 +24,7 @@ Open the `.vbp` in Visual Basic 6.0 IDE:
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/Repl20Code`.
+Working copy from my Historical Dev folder `VB/Repl20Code`.
 Company names in `.vbp` files: Julietta Alaverdian.
 Third-party attribution: Julietta Alaverdian. See `THIRD_PARTY_NOTICES.md`.
 
